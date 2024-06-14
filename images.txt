@@ -1,2 +1,3 @@
 alpine
 windycloud/lanraragi_cn:v.0.9.0
+difegue/lanraragi:nightly
